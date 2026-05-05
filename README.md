@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> في عيوني شوق غلاك
+> روحي مشتاقة لقاك
+> في ليالي الحب معاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
