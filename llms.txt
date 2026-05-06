@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/na-bola-kotha/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Na Bola Kotha](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Na Bola Kotha](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
