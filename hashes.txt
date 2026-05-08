@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Na Bola Kotha
+
+This log tracks the cryptographic history and versioning for the song **Na Bola Kotha** (na-bola-kotha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:05:38.289543 | `v1` | `830b0796b470cf12673c53aaf3394e1d8159ceba25abf0757682459b0edb35f0` | `0508829d6b04347e1fec533b3fe9327b7e6ab750220a669862ee9df17e09e853` | `2026-05-08_na-bola-kotha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
